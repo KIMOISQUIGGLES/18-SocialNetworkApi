@@ -21,6 +21,8 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 
 ## Demo
 
+[Link to my demo](https://youtu.be/f048PmlfDvw)
+
 ## Links
 
 [GitHub](https://github.com/KIMOISQUIGGLES/18-SocialNetworkApi)
