@@ -1,0 +1,27 @@
+{
+    "dependencies": {
+      "express": "^4.18.1",
+      "mongoose": "^6.3.4",
+      "nodemon": "^2.0.16"
+    },
+    "scripts": {
+      "start": "node index",
+      "dev": "nodemon index",
+      "seed": "node utils/seed"
+    },
+    "name": "social-network-api",
+    "description": "",
+    "version": "1.0.0",
+    "main": "server.js",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/KIMOISQUIGGLES/18-SocialNetworkApi"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/KIMOISQUIGGLES/18-SocialNetworkApi/issues"
+    },
+    "homepage": "https://github.com/KIMOISQUIGGLES/18-SocialNetworkApi#readme"
+  }
